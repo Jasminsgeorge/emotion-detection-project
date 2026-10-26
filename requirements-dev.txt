@@ -1,0 +1,6 @@
+# Extra tools for model evaluation and testing.
+-r requirements.txt
+pandas==3.0.5
+scikit-learn==1.9.1
+matplotlib==3.11.1
+pytest

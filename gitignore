@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+data/*.db
+dataset/fer2013.csv
+reports/*.json
+models/*.h5
+models/face_detector/*.onnx
+data/secret_key
